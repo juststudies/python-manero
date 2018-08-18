@@ -1,0 +1,1 @@
+Estudo de web scraping, usando bs4.
